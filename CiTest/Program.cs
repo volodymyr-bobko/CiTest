@@ -6,7 +6,7 @@ namespace CiTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CI Test!");
+            Console.WriteLine("Test CI!");
         }
     }
 }
